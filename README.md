@@ -1,15 +1,13 @@
-# Third Person Enemy Chase Game
+# Third Person Game
 
 ## Description
 
-This is a third-person Unity game built using C#. The player can move around an indoor environment using keyboard controls, while an enemy AI detects, chases, and attacks the player. The game includes smooth camera movement, basic animations, and a health system.
+This is a third-person Unity game built using C#. The player can move around an indoor environment using keyboard controls. The game includes smooth camera movement and basic animations.
 
 ## Features
 
 * Third-person player movement (WASD)
 * Mouse-controlled camera (TPP style)
-* Enemy AI (chase and attack system)
-* Player health system with game over
 * Basic indoor environment with props and objects
 * Character animations (Mixamo)
 
